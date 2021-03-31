@@ -1,0 +1,4 @@
+--Start Mongo Server
+sudo systemctl start mongod
+--Check Mongo Status
+sudo systemctl status mongod
